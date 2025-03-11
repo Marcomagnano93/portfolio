@@ -12,8 +12,15 @@ export default {
 </script>
 
 <template>
+<div class="container">
+  <h2>Chi sono</h2>
+  <div class="row">
+    <div class="col">
+      <p></p>
+    </div>
+  </div>
+</div>
 
-chi sono
 </template>
 
 <style></style>
